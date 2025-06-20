@@ -13,7 +13,6 @@ public class Array2D {
         System.out.println(Arrays.toString(arr2D(arr,8)));
 
 
-
     }
 
     public static int[] arr2D(int[][] matrix ,int target){
